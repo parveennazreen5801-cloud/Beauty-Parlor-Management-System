@@ -25,24 +25,25 @@ Beauty Parlor Management System built with HTML5, CSS3, Bootstrap, JavaScript, j
 
 ## 📸 Screenshots
 ### 🔑 Login Page
-![Login Page](C:\Users\parve\OneDrive\Desktop\login.png)
+![Login Page](screenshots/login.png)
 
 ### 📝 Signup Page
-![Signup Page](C:\Users\parve\OneDrive\Desktop\SignUp.png)
+![Signup Page](screenshots/signup.png)
 
 ### 📞 Contact Us Page
-![Contact Us](C:\Users\parve\OneDrive\Desktop\ContactUs.png)
+![Contact Us](screenshots/contactus.png)
 
 ### 🖥️ Admin Dashboard
-![Admin Dashboard](C:\Users\parve\OneDrive\Desktop\Dashboard.png)
+![Admin Dashboard](screenshots/dashboard.png)
 
 ### 👤 Admin Signup
-![Admin Signup](C:\Users\parve\OneDrive\Desktop\AdminSignUp.png)
+![Admin Signup](screenshots/adminsignup.png)
 
 ### 🔒 Change Password
-![Change Password](C:\Users\parve\OneDrive\Desktop\ChangePassword.png)
+![Change Password](screenshots/changepassword.png)
+
 ### 📅 Appointment Form
-![Appointment Form](C:\Users\parve\OneDrive\Desktop\Appoint.png)
+![Appointment Form](screenshots/appoint.png)
 
 
 
