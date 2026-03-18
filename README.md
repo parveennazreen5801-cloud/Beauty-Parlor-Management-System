@@ -24,26 +24,31 @@ Beauty Parlor Management System built with HTML5, CSS3, Bootstrap, JavaScript, j
 [Click here to view](http://bpms.free.nf)
 
 ## 📸 Screenshots
+
 ### 🔑 Login Page
 ![Login Page](screenshots/login.png)
 
 ### 📝 Signup Page
-![Signup Page](screenshots/signup.png)
+![Signup Page](screenshots/SignUp.png)
 
 ### 📞 Contact Us Page
-![Contact Us](screenshots/contactus.png)
+![Contact Us](screenshots/ContactUS.png)
 
 ### 🖥️ Admin Dashboard
-![Admin Dashboard](screenshots/dashboard.png)
+![Admin Dashboard](screenshots/Dashboard.png)
 
 ### 👤 Admin Signup
-![Admin Signup](screenshots/adminsignup.png)
+![Admin Signup](screenshots/AdminSignup.png)
 
 ### 🔒 Change Password
-![Change Password](screenshots/changepassword.png)
+![Change Password](screenshots/ChangePassword.png)
 
 ### 📅 Appointment Form
-![Appointment Form](screenshots/appoint.png)
+![Appointment Form](screenshots/Appoint.png)
+
+### 👤 Profile Page
+![Profile](screenshots/profile.png)
+
 
 
 
